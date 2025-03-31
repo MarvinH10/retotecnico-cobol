@@ -6,7 +6,7 @@ Este aplicativo es un reto práctico que tiene como propósito procesar un archi
 ## Instrucciones de Ejecución
 1. **Clona este repositorio:**  
    ```bash
-   git clone https://github.com/MarvinH10/retotecnico-cobol
+   git clone https://github.com/MarvinH10/retotecnico-cobol.git
    ```
 
 2. **Navega al directorio del proyecto:**  
